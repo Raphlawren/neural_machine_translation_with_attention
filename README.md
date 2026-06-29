@@ -206,7 +206,3 @@ Or upload the notebook to Google Colab and run it there.
 
 This project is mainly intended as a deep learning learning project. It demonstrates core ideas behind Neural Machine Translation, attention mechanisms, sequence preprocessing, encoder-decoder modeling, and model interpretability through attention visualization.
 
-## Author
-
-Raphael Farodoye
-
